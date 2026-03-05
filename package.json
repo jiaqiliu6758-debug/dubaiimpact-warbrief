@@ -1,0 +1,25 @@
+{
+  "name": "dubaiimpact-warbrief",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "generate:daily": "node --loader ts-node/esm scripts/generate_daily.ts"
+  },
+  "dependencies": {
+    "next": "15.2.4",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "rss-parser": "3.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.13.5",
+    "@types/react": "19.0.8",
+    "@types/react-dom": "19.0.3",
+    "ts-node": "10.9.2",
+    "typescript": "5.7.3"
+  }
+}

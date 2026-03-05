@@ -1,0 +1,77 @@
+{
+  "topic_keywords": [
+    "Iran",
+    "Israel",
+    "Gulf",
+    "UAE",
+    "Dubai",
+    "Red Sea",
+    "Hormuz",
+    "missile",
+    "airstrike",
+    "ceasefire",
+    "sanctions",
+    "shipping"
+  ],
+  "rss_feeds": [
+    {
+      "name": "Reuters (if RSS available via your license)",
+      "type": "mainstream",
+      "url": ""
+    },
+    {
+      "name": "BBC Middle East",
+      "type": "mainstream",
+      "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml"
+    },
+    {
+      "name": "Al Jazeera",
+      "type": "mainstream",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml"
+    },
+    {
+      "name": "UAE Government News",
+      "type": "official",
+      "url": "https://u.ae/en/about-the-uae/latest-news/rss"
+    },
+    {
+      "name": "Emirates News",
+      "type": "airline",
+      "url": "https://www.emirates.com/media-centre/rss/"
+    }
+  ],
+  "official_links": [
+    {
+      "name_zh": "\u963f\u8054\u914b\u5185\u653f\u90e8 MOI",
+      "name_en": "UAE Ministry of Interior",
+      "url": "https://www.moi.gov.ae/"
+    },
+    {
+      "name_zh": "\u8fea\u62dc\u8b66\u65b9",
+      "name_en": "Dubai Police",
+      "url": "https://www.dubaipolice.gov.ae/"
+    },
+    {
+      "name_zh": "\u4e2d\u56fd\u9a7b\u8fea\u62dc\u603b\u9886\u9986",
+      "name_en": "Consulate-General of China in Dubai",
+      "url": "http://dubai.china-consulate.gov.cn/"
+    }
+  ],
+  "airline_links": [
+    {
+      "name_zh": "\u963f\u8054\u914b\u822a\u7a7a",
+      "name_en": "Emirates",
+      "url": "https://www.emirates.com/"
+    },
+    {
+      "name_zh": "\u963f\u63d0\u54c8\u5fb7\u822a\u7a7a",
+      "name_en": "Etihad",
+      "url": "https://www.etihad.com/"
+    },
+    {
+      "name_zh": "\u963f\u66fc\u822a\u7a7a",
+      "name_en": "Oman Air",
+      "url": "https://www.omanair.com/"
+    }
+  ]
+}
