@@ -41,37 +41,14 @@
     }
   ],
   "official_links": [
-    {
-      "name_zh": "\u963f\u8054\u914b\u5185\u653f\u90e8 MOI",
-      "name_en": "UAE Ministry of Interior",
-      "url": "https://www.moi.gov.ae/"
-    },
-    {
-      "name_zh": "\u8fea\u62dc\u8b66\u65b9",
-      "name_en": "Dubai Police",
-      "url": "https://www.dubaipolice.gov.ae/"
-    },
-    {
-      "name_zh": "\u4e2d\u56fd\u9a7b\u8fea\u62dc\u603b\u9886\u9986",
-      "name_en": "Consulate-General of China in Dubai",
-      "url": "http://dubai.china-consulate.gov.cn/"
-    }
-  ],
+  { "name_zh": "阿联酋内政部 MOI", "name_en": "UAE Ministry of Interior (MOI)", "url": "https://www.moi.gov.ae/" },
+  { "name_zh": "GDRFA（迪拜居留与外国人事务总局）", "name_en": "GDRFA Dubai", "url": "https://www.gdrfad.gov.ae/" },
+  { "name_zh": "迪拜警方", "name_en": "Dubai Police", "url": "https://www.dubaipolice.gov.ae/" },
+  { "name_zh": "中国驻迪拜总领馆", "name_en": "Consulate-General of China in Dubai", "url": "http://dubai.china-consulate.gov.cn/" }
+],
   "airline_links": [
-    {
-      "name_zh": "\u963f\u8054\u914b\u822a\u7a7a",
-      "name_en": "Emirates",
-      "url": "https://www.emirates.com/"
-    },
-    {
-      "name_zh": "\u963f\u63d0\u54c8\u5fb7\u822a\u7a7a",
-      "name_en": "Etihad",
-      "url": "https://www.etihad.com/"
-    },
-    {
-      "name_zh": "\u963f\u66fc\u822a\u7a7a",
-      "name_en": "Oman Air",
-      "url": "https://www.omanair.com/"
-    }
-  ]
+  { "name_zh": "阿联酋航空", "name_en": "Emirates", "url": "https://www.emirates.com/ae/english/" },
+  { "name_zh": "阿提哈德航空", "name_en": "Etihad", "url": "https://www.etihad.com/en-ae/" },
+  { "name_zh": "阿曼航空", "name_en": "Oman Air", "url": "https://www.omanair.com/en" }
+]
 }
